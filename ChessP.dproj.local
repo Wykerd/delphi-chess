@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018-09-18 09:47:01.618.pas,D:\Chess\Code\Unit1.pas=D:\Chess\Code\Launcher.pas</Transaction>
+    <Transaction>2018-09-18 09:47:01.618.dfm,D:\Chess\Code\Unit1.dfm=D:\Chess\Code\Launcher.dfm</Transaction>
+    <Transaction>2018/10/07 18:29:53.546.pas,E:\Chess\Code\Unit1.pas=E:\Chess\Code\EngineDialogs.pas</Transaction>
+    <Transaction>2018/10/07 18:47:29.265.pas,E:\Chess\Code\EngineDialogs.pas=E:\Chess\Code\EngineUI.pas</Transaction>
+    <Transaction>2018/10/11 16:48:03.324.pas,F:\Chess\Code\Unit1.pas=F:\Chess\Code\EngineFileInterpreter.pas</Transaction>
+    <Transaction>2018/10/13 17:35:21.333.pas,F:\Chess\Code\PawnPromoteUI.pas=</Transaction>
+    <Transaction>2018/10/13 17:35:21.333.dfm,F:\Chess\Code\PawnPromoteUI.dfm=</Transaction>
+    <Transaction>2018/10/13 21:03:01.674.xml,F:\Chess\Code\Help.xml=</Transaction>
+    <Transaction>2018/10/13 21:17:23.842.pas,F:\Chess\Code\Unit1.pas=F:\Chess\Code\HelpU.pas</Transaction>
+    <Transaction>2018/10/13 21:17:23.842.dfm,F:\Chess\Code\Unit1.dfm=F:\Chess\Code\HelpU.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="EngineAnimations.pas"/>
+    <File Path="EngineClasses.pas"/>
+    <File Path="EngineUI.pas"/>
+    <File Path="EngineFileInterpreter.pas"/>
+    <File Path="Launcher.pas"/>
+    <File Path="Launcher.dfm"/>
+    <File Path="PlayerU.pas"/>
+    <File Path="PlayerU.dfm"/>
+    <File Path="HelpU.pas"/>
+    <File Path="HelpU.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
